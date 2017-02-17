@@ -1,0 +1,54 @@
+h1.felsocucc{
+	text-align: center;
+	position: fixed;
+	margin-top: 10px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 680px;
+}
+
+div.leirasok{
+	position: fixed;
+	margin-top: 70px;
+    margin-bottom: 200px;
+    margin-right: 190px;
+    margin-left: 680px;
+}
+
+div.vissza{
+    position: fixed;
+    margin-top: 425px;
+    margin-bottom: 200px;
+    margin-right: 190px;
+    margin-left: 825px;   
+}
+
+div.pont{
+    position: fixed;
+    margin-top: 400px;
+    margin-bottom: 200px;
+    margin-right: 190px;
+    margin-left: 775px;   
+}
+
+
+div.aprobetu{
+    position: fixed;
+    margin-top: 570px;
+    margin-bottom: 200px;
+    margin-right: 190px;
+    margin-left: 750px;   
+}
+
+p.manual{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+p.leiras{
+    text-align: justify;
+}
+
+img.resize{
+   width:150px;
+}
